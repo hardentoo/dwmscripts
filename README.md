@@ -1,0 +1,2 @@
+# dwmscripts
+Scripts for dwm
